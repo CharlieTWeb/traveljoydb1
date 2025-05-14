@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "traveljoydb1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "0564fdce-c5c2-41e4-b036-9a2bb01bdd31",
+      "database_name": "TravelJoyDB1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
